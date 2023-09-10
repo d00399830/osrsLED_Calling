@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# LED HTTP Caller
+Calls an HTTP server's various endpoints (tbd later) when various in game events occur (see above note about when it will be determined) that in turn causes LEDs to go off (LED code not included since it isn't mine to share)
